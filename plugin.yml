@@ -1,0 +1,21 @@
+main: com.nity6000.plugin.Grenades
+version: 1.0 Release
+name: Grenades
+
+commands:
+  firegrenade:
+    description: firegrenades a player
+  watergrenade:
+    description: watergrenades a player
+  grenade:
+    description: A traditional grenade
+  lavagrenade:
+    description: A lava grenade  
+  fg: 
+    description: firegrenades a player
+  wg:
+    description: watergrenades a player
+  g:
+    description: A traditional grenade
+  lg:
+    description: A lava grenade  
