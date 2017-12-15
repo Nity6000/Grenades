@@ -10,7 +10,8 @@ Here you can find the scripts for everything.
 
 # Bulding
 If you don't want to download it then download
-the source, import it into eclipse, and compile.
+the source, re-create it in eclipse (I no longer have the .classpath and .project so you can't import),
+and build to a non-runnable jar file.
 
 # Dependicies
 You will need the [Craftbukkit 1.12](https://getbukkit.org/get/bf8d6ecd2fb20108e039012b763fe36e) API
