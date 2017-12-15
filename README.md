@@ -4,7 +4,7 @@ This is my Grenades plugin Source Code.
 Here you can find the scripts for everything.
 
 # Download
-[Bukkit](https://dev.bukkit.org/projects/nitys-explosives)
+[Bukkit](https://dev.bukkit.org/projects/simple-grenades?gameCategorySlug=bukkit-plugins&projectID=276924)
 
 [Spigot](https://www.spigotmc.org/resources/simple-grenades.46685/)
 
